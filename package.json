@@ -1,5 +1,5 @@
 {
-  "name": "outside",
+  "name": "outside-cli",
   "version": "1.0.0",
   "description": "A CLI app that gives you the weather forecast",
   "license": "MIT",
